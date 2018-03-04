@@ -1,1 +1,1 @@
-# UCLA_CS_32
+# UCLA CS 32
