@@ -1,0 +1,10 @@
+﻿  StudentWorld.cpp
+  main.cpp
+  GameWorld.cpp
+  GameController.cpp
+  Actor.cpp
+c:\users\sidharth bambah\documents\personal\college\courses\archive\cs\cs_32\projects\project_3\bugs\bugs\actor.cpp(602): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\sidharth bambah\documents\personal\college\courses\archive\cs\cs_32\projects\project_3\bugs\bugs\actor.cpp(603): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Bugs.vcxproj -> C:\Users\Sidharth Bambah\Documents\Personal\college\courses\archive\cs\cs_32\projects\project_3\Bugs\Debug\Bugs.exe
+  Bugs.vcxproj -> C:\Users\Sidharth Bambah\Documents\Personal\college\courses\archive\cs\cs_32\projects\project_3\Bugs\Debug\Bugs.pdb (Partial PDB)
